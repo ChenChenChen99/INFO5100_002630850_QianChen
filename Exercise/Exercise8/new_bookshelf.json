@@ -1,0 +1,1 @@
+{"Book":[{"numberOfPages":500,"publishedYear":2010,"title":"C++","authors":["authorA","authorB"]},{"numberOfPages":600,"publishedYear":2011,"title":"Java","authors":["authorC"]},{"numberOfPages":700,"publishedYear":2012,"title":"Python","authors":["authorD","authorE"]},{"numberOfPages":"100","publishedYear":"2015","title":"JSON","authors":["AuthorF","AuthorG"]}]}

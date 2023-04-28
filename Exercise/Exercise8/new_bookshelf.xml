@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><BookShelf>
+    <Book>
+        <title>Harry Potter</title>
+        <publishedYear>1997</publishedYear>
+        <numberOfPages>223</numberOfPages>
+        <authors>
+            <author>J.K. Rowling</author>
+        </authors>
+    </Book>
+
+    <Book>
+        <title>Lord of the Rings</title>
+        <publishedYear>1954</publishedYear>
+        <numberOfPages>1178</numberOfPages>
+        <authors>
+            <author>J.R.R. Tolkien</author>
+        </authors>
+    </Book>
+
+    <Book>
+        <title>Game of Thrones</title>
+        <publishedYear>1996</publishedYear>
+        <numberOfPages>835</numberOfPages>
+        <authors>
+            <author>George R.R. Martin</author>
+        </authors>
+    </Book>
+
+<Book><title>The Chronicles of Narnia</title><publishedYear>1950</publishedYear><numberOfPages>778</numberOfPages><authors><author>C.S. Lewis</author></authors></Book></BookShelf>

@@ -1,0 +1,24 @@
+{
+   "Book": [
+      {
+         "title": "C++",
+         "publishedYear": 2010,
+         "numberOfPages": 500,
+         "authors": ["authorA", "authorB"]
+      },
+
+      {
+         "title": "Java",
+         "publishedYear": 2011,
+         "numberOfPages": 600,
+         "authors": ["authorC"]
+      },
+
+      {
+         "title": "Python",
+         "publishedYear": 2012,
+         "numberOfPages": 700,
+         "authors": ["authorD", "authorE"]
+      }
+   ]
+}

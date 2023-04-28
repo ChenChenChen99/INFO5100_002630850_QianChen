@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.collections.FXCollections?>
+
+<VBox alignment="CENTER" spacing="20.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.project.covertController">
+   <children>
+      <Label text="Please choose the format you want to covert to." />
+      <ChoiceBox fx:id="formatChoiceBox" prefWidth="150.0" >
+            <items>
+                <FXCollections fx:factory="observableArrayList">
+                <String fx:value="PNG" />
+                <String fx:value="JPG" />
+                <String fx:value="JPEG" />
+                </FXCollections>
+            </items>
+        </ChoiceBox>
+      <Button mnemonicParsing="false" onAction="#covertImageButtonClick" text="OK" />
+   </children>
+</VBox>
